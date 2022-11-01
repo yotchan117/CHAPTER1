@@ -24,9 +24,12 @@
 }
 
 .main-content1 {
-  width: 230px;
+  width: 960px;
   height: 1400px;
+  margin: 0 auto;
   background-color: palegreen;
+  display: flex;
+  justify-content: center;
 }
 
 .main-content2 {
